@@ -575,7 +575,7 @@
 }
 */
 .ms-container {
-  background: transparent url('/assets/css/modules/materialadmin/css/theme-default/libs/multi-select/switch.png') no-repeat 50% 50%;
+  background: transparent url('switch.png') no-repeat 50% 50%;
 }
 .ms-container:after {
   content: ".";
